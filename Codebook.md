@@ -25,7 +25,7 @@ The input dataset includes the following files:
 
 It consists of the data for mean of following data items
 
-* act and subject indicating activity and subject variable, which is either mean and standard deviation measurement. These are the first two columns in the output tidy dataset viz. **aggregated data.txt**
+*act and subject indicating activity and subject variable, which is either mean and standard deviation measurement. These are the first two columns in the output tidy dataset viz. **aggregated data.txt***
 
  1. "tBodyAcc-mean()-X mean mean"              
  2. "tBodyAcc-mean()-Y mean mean"              
