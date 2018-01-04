@@ -1,16 +1,19 @@
-datasciencecoursera - Data cleansing
-====================================
+Data Science Coursera - Data cleansing
+======================================
 
 
-##File present
+## File present
 
 It consists of the following files:
 
-**run_analysis.R** would take the input file as UCI HAR datasets and perform requisite analysis
-**readme.md** would provide an overview of the processing
-**codebook.md** would provide an overview of the variables in the output file i.e. tidy dataset</b>
+* **run_analysis.R** would take the input file as UCI HAR datasets and perform requisite analysis
 
-##Analysis performed
+* **readme.md** would provide an overview of the processing
+
+* **codebook.md** would provide an overview of the variables in the output file i.e. tidy dataset
+
+
+## Analysis performed
 
 Here is a sequence of *steps performed* for analysis:
 
