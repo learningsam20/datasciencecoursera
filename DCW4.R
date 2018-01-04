@@ -34,4 +34,4 @@ addstr<-function(x) paste(x," mean",sep="")
 colnames(aggregateList)<-c("act","subject",unlist(lapply(colnames(aggregateList)[3:81],addstr)))
 
 ##Write tidy dataset to output file
-write.table(aggregateList, file = "./aggregated data.txt")
+write.table(aggregateList, file = "./aggregated data.txt",row.names = FALSE)
